@@ -1,5 +1,4 @@
 import React from "react";
-
 const AddUser=()=>{
   const addUserHandler=(event)=>{
     event.preventDefault();
